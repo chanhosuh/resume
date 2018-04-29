@@ -12,10 +12,10 @@ date: \today
 # Employment\
 History
 - **LoanStreet Inc.**\
-2018 - current  *Software engineer for financial technology firm*
+2018 - current, *Software engineer for financial technology firm*
     - Rebuild Django backend, following OOP best practices to ensure accuracy, extensibility, and scaleability.
 - **MIO Partners** (McKinsey & Co subsidiary)\
-  2016 - 2018  *Quant developer for trading*
+  2016 - 2018, *Quant developer for trading*
     - Designed Python-based portfolio management tools following
 object-oriented principles. Tools are used interactively for analysis
 and as components in report-generation processes deployed in Docker
@@ -28,7 +28,7 @@ trading web app (React JS and Python), coded back-end computations, and
 managed two front-end developers.
 
 - **JP Morgan Chase**\
-  2015 - 2016  *Quant developer for regulatory capital*
+  2015 - 2016, *Quant developer for regulatory capital*
     - Transitioned Excel and Access-based manual processes to
 robust, automated processes on servers using proprietary Python-based
 environment (Athena).
@@ -40,7 +40,7 @@ documentation and business user sign-off/communication was required
 throughout.
 
 - **Nomura**\
-  2014 - 2015  *Front office developer for electronic trading*
+  2014 - 2015, *Front office developer for electronic trading*
     - Created a low-latency order book generator that used Tibco
 Rendezvous to aggregate market-data and pricing and communicate with
 smart order router and GUI (Java/Linux).
@@ -50,7 +50,7 @@ swap futures.
 management system.
 
 - **Nomura**\
-  2013  *Intern for equities connectivity team*
+  2013, *Intern for equities connectivity team*
     - Contributed to on-schedule deployment of ECN gateway by
 building Java framework to systematically monitor and analyze latency
 from multiple protocols.
