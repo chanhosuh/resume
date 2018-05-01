@@ -45,12 +45,22 @@
 
 \def\tightlist{}
 
+% based on https://stackoverflow.com/a/3951837/1175053
+\makeatletter% since we're using a macro containing @
+\newcommand{\addspaces}[1]{%
+  \@tfor\letter:=#1\do{%
+    \letter\space
+  }%
+}
+\makeatother% resets @ to its original meaning
+
+
 \begin{document}
 	\begin{tabular}{ll}
-		\multirow{ 2}{*}{\bighelv C\,h\,a\,n\,-\,H\,o\quad S u h\qquad}
+            \multirow{ 2}{*}{\bighelv \addspaces{Chan-Ho}\quad \addspaces{Suh}\qquad}
 		&\helv csuh.web@gmail.com \\
 		&\helv xxx - xxx - xxxx \\
-		&\helv Fort Lee, New Jersey  \\
+		&\helv New York, New York  \\
 		&\helv \faGithub \phantom{.} \faLinkedin \phantom{..} chanhosuh \\
 	\end{tabular}
 
@@ -153,9 +163,9 @@ History}{Employment History}}\label{employment-history}
     the CEO. Data was processed from a variety of sources including
     emails and databases.
   \item
-    As project manager/tech lead, gathered requirements for a trading
-    web app (React JS and Python), coded back-end computations, and
-    managed two front-end developers.
+    As project manager, gathered requirements for a web app (React JS
+    and Python), coded back-end computations, and managed two front-end
+    developers.
   \end{itemize}
 \item
   \textbf{JP Morgan Chase}\\
@@ -164,17 +174,14 @@ History}{Employment History}}\label{employment-history}
   \begin{itemize}
   \tightlist
   \item
-    Transitioned Excel and Access-based manual processes to robust,
-    automated processes on servers using proprietary Python-based
-    environment (Athena).
+    Automated Excel and Access-based manual processes as robust server
+    processes using proprietary Python-based environment (Athena).
   \item
-    Development was full-stack, from back-end processes to event-driven
-    GUI design, and followed the AGILE methodology, including thorough
-    test coverage.
+    Worked on back-end processes and event-driven GUI design, following
+    the AGILE methodology, including thorough test coverage.
   \item
-    Due to the sensitive-nature of regulatory capital, careful
-    documentation and business user sign-off/communication was required
-    throughout.
+    Careful documentation and business user sign-off/communication was
+    required throughout.
   \end{itemize}
 \item
   \textbf{Nomura}\\
@@ -196,14 +203,6 @@ History}{Employment History}}\label{employment-history}
 \item
   \textbf{Nomura}\\
   2013, \emph{Intern for equities connectivity team}
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Contributed to on-schedule deployment of ECN gateway by building
-    Java framework to systematically monitor and analyze latency from
-    multiple protocols.
-  \end{itemize}
 \item
   \textbf{University of California, Davis}\\
   2012 Lecturer\\

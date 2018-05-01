@@ -44,13 +44,23 @@
 
 \def\tightlist{}
 
+% based on https://stackoverflow.com/a/3951837/1175053
+\makeatletter% since we're using a macro containing @
+\newcommand{\addspaces}[1]{%
+  \@tfor\letter:=#1\do{%
+    \letter\space
+  }%
+}
+\makeatother% resets @ to its original meaning
+
+
 \begin{document}
 	\begin{tabular}{ll}
-		\multirow{ 2}{*}{\bighelv C\,h\,a\,n\,-\,H\,o\quad S u h\qquad}
-		&\helv csuh.web@gmail.com \\
-		&\helv xxx - xxx - xxxx \\
-		&\helv Fort Lee, New Jersey  \\
-		&\helv \faGithub \phantom{.} \faLinkedin \phantom{..} chanhosuh \\
+            \multirow{ 2}{*}{\bighelv \addspaces{$firstname$}\quad \addspaces{$lastname$}\qquad}
+		&\helv $email$ \\
+		&\helv $phone$ \\
+		&\helv $location$  \\
+		&\helv \faGithub \phantom{.} \faLinkedin \phantom{..} $github_username$ \\
 	\end{tabular}
 
 \vspace{-0.2in}
