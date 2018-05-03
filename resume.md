@@ -40,10 +40,11 @@ History
       server processes using proprietary Python-based environment
       (Athena).
     - Worked on back-end processes and event-driven GUI design,
-      following the AGILE methodology, including thorough test
+      following the Agile methodology, including thorough test
       coverage.
-    - Careful documentation and business user sign-off/communication
-      was required throughout.
+    - Frequent communication and signoffs from business users were
+      required, with careful documentation showing accuracy of
+      results.
 
 - **Nomura**\
   2014 - 2015, *Front office developer for electronic trading*
