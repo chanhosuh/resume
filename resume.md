@@ -22,7 +22,7 @@ History
     - Gather and translate requirements for loan origination and 
       trading business.
     - Rebuild Django backend with greater accuracy and scaleability
-      due to rapid growth as primary objectives.
+      as primary objectives.
 - **MIO Partners** (McKinsey & Co subsidiary)\
   2016 - 2018, *Quant developer for trading*
     - Designed Python-based portfolio management tools following
