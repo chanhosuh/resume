@@ -1,5 +1,6 @@
 ---
 name: Chan-Ho Suh
+date: \today
 ---
 
 # Education
