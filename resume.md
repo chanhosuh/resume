@@ -18,9 +18,11 @@ github_username: chanhosuh
 # Employment\
 History
 - **LoanStreet Inc.**\
-2018 - current, *Software engineer for financial technology firm*
-    - Rebuild Django backend, following OOP best practices to ensure
-      accuracy, extensibility, and scaleability.
+2018 - current, *Software engineer for financial technology*
+    - Gather and translate requirements for loan origination and 
+      trading business.
+    - Rebuild Django backend with greater accuracy and scaleability
+      due to rapid growth as primary objectives.
 - **MIO Partners** (McKinsey & Co subsidiary)\
   2016 - 2018, *Quant developer for trading*
     - Designed Python-based portfolio management tools following
