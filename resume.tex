@@ -1,0 +1,145 @@
+\documentclass[margin]{res}
+\pdfmapfile{=fontawesome.map}
+
+\usepackage{libertine}
+%\usepackage{palatino}
+%\usepackage[sfdefault]{gillius2}
+\usepackage{microtype}
+\usepackage{graphicx}
+%\usepackage{fontspec}
+\usepackage{fontawesome}
+
+%\usepackage[strict]{changepage}
+\usepackage{multirow}
+\usepackage{fancyhdr}
+%\usepackage{lastpage}
+\usepackage{hyperref}
+
+%\usepackage{geometry}
+%\geometry{letterpaper,tmargin=0.2in,bmargin=0.6in,lmargin=1in,rmargin=1in}
+\topmargin -.6in
+\textheight 10.0in
+
+
+%\font\helv=phvr at 10pt
+%\font\bighelv=phvr at 24pt
+\newcommand{\thickhline}{\noalign{\hrule height 0.7pt}}
+\font\helv=GilliusADFNo2-Regular-lf-t1 at 10pt
+\font\bighelv=GilliusADFNo2-Regular-lf-t1 at 22pt
+
+\pagestyle{fancy}
+\pagenumbering{gobble}
+%no line at top
+\renewcommand{\headrulewidth}{0pt}
+\rfoot{\small{April 30, 2017}}
+
+\newenvironment{list1}{
+  \begin{list}{$\circ$}{
+      \setlength{\itemsep}{0.0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.1in}
+      }}
+      {\end{list}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{
+\helv{#1}
+}}
+ 
+
+\begin{document}
+	\begin{tabular}{ll}
+		\multirow{ 2}{*}{\bighelv C\,h\,a\,n\,-\,H\,o\quad S u h\qquad}
+		&\helv csuh.web@gmail.com \\
+		&\helv xxx - xxx - xxxx \\
+		&\helv Fort Lee, New Jersey  \\
+		&\helv \faGithub \phantom{.} \faLinkedin \phantom{..} chanhosuh \\
+	\end{tabular}
+
+
+\begin{resume}
+\vspace{-0.2cm}
+\section{\helv Education}
+\begin{list1}
+\item {\bf BA}, {\helv Cornell University}, cum laude in mathematics,  May 2001
+\item {\bf PhD}, {\helv University of California at Davis}, mathematics,  Dec 2007
+\item {\bf MS}, {\helv Rutgers}, mathematical finance, Jan 2014
+\end{list1}
+\vspace{-0.1in}
+\section{\helv Employment\\ History}
+\begin{list1}
+\item {\bf MIO Partners}\\
+2016 -current\quad {\it Quant developer for trading}\\[0.05cm]
+$\bullet$ Build tools, mainly in Python, for research and trading in volatility derivatives. \\[0.05cm]
+$\bullet$ Create daily charts for chief investment officer to identify trading opportunities. \\[0.05cm]
+$\bullet$ Project manager/tech lead for web application used for signal generation\\[0.05cm]
+$\bullet$ Gather volatility data from varied sources, while cleaning/maintaining data.
+\vspace{0.1cm}
+\item {\bf JP Morgan Chase}\\[0.05cm]
+2015 - 2016\quad {\it Quant developer for regulatory capital}\\[0.05cm]
+$\bullet$ Provide solutions for improved oversight of firm-wide capital adequacy processes. \\[0.05cm]
+$\bullet$ Identify and resolve data quality issues for high-visibility regulatory policy vetting.\\[0.05cm]
+$\bullet$ Rapid, iterative, full-stack development in proprietary Python-based environment (Athena), from server-side processes to event-driven GUI design.
+\vspace{0.1cm}
+\item {\bf Nomura }\\ 
+2014 - 2015 \quad {\it Front office developer for electronic trading}\\[0.05cm]
+$\bullet$ Created a low-latency order book generator that used Tibco Rendezvous to aggregate market-data and pricing and communicate with smart order router and GUI (Java/Linux). \\[0.05cm]
+$\bullet$ Primary maintainer of  automated market-maker for USD swaps and swap futures.\\[0.05cm]
+$\bullet$ Created a FIX trade feed from ION trading platform into trade management system.
+\vspace{0.1cm}
+\item {\bf Nomura}\\
+2013 \quad {\it Intern on equities connectivity team}\\[0.05cm]
+$\bullet$ Contributed to  on-schedule deployment of ECN gateway by building Java framework to systematically monitor and analyze latency from multiple protocols.\\[0.05cm]
+$\bullet$ Ensured compatibility of team's Ant build process to firm's Maven build process by completing conversion on several projects and documenting the conversion.
+\\[-0.3cm]
+\item {\bf University of California, Davis}\\
+2012\qquad Lecturer\\
+{\it Head instructor for courses in calculus, linear algebra, and probability}\vspace{0.05cm}
+\item {\bf Bard College}, BHSEC program\\
+2009 - 2011\qquad Assistant Professor\\
+{\it Oversaw the development of accelerated math curriculum for early college program.}\vspace{0.05cm}
+\item {\bf University of Victoria}\\
+2008 - 2009\qquad PIMS Postdoctoral Fellow\\
+{\it Conducted mathematical research in low-dimensional topology}
+\end{list1}
+\vspace{-0.15in}
+
+\section{\helv Skills \&\\ Abilities}
+\begin{list1}
+\item Ability to self-manage and rapidly iterate while gathering and updating requirements.
+\item Programming languages: {\helv Python}, { \helv Java}, {\helv C}
+\item Work experience in a Linux server environment, using Unix tools (grep, awk, sed, vi(m), etc.)
+\item Ability to digest new quantitative literature from a top-down, conceptual viewpoint
+\end{list1}
+
+\vspace{-0.1in}
+
+\section{\helv Papers}
+\begin{list1}
+\item ``Boundary-Twisted Normal Form and the Number of Elementary Moves to Unknot'', \emph{New York J. Math} 18 (2012) 389-408. 
+\item ``The Unknotting Problem and Normal Surface Q-Theory'', \emph{Journal of Knot Theory and Its Ramifications}, accepted for publication
+\end{list1}
+\vspace{-0.1in}
+
+\section{\helv Fellowships \&\\ Scholarships}
+\begin{list1}
+\item Pacific Institute for the Mathematical Sciences Postdoctoral Fellowship
+\item National Science Foundation VIGRE Fellowship (4 years)
+\item Rutgers MSMF Gary Chropuvka Scholarship Award
+\end{list1}
+\vspace{-0.1in}
+\section{\helv Personal}
+\begin{list1}
+\item Naturalized U.S. Citizen; moved to the U.S. at age eight.
+\end{list1}
+
+\end{resume}
+\end{document}
+
+
+
+
