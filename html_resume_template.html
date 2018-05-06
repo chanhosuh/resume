@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="generator" content="pandoc" />
+    <meta name="description" content="The Resume of $firstname$ $lastname$"/>
+    <title>$firstname$ $lastname$ - Resume</title>
+    <style type="text/css">code{white-space: pre;}</style>
+    <!-- <link rel="stylesheet" href="github-pandoc.css" type="text/css" /> -->
+    <link rel="stylesheet" href="$css$" type="text/css" />
+</head>
+
+<body>
+<div id="main details">
+    <h1>$firstname$ $lastname$</h1>
+    $if(jobtitle)$
+    <h4>$jobtitle$</h4>
+    $endif$
+    <div id="contact details">
+        <ul>
+        <li>✉ <a href="mailto:$email$">$email$</a></li>
+        <li>☎ $phone$</li>
+        <li>🌎 <a href="http://$homepage$">$homepage$</a></li>
+        <li>Linkedin: <a href="https://www.linkedin.com/in/$linkedin$">$linkedin$</a></li>
+        <li>GitHub: <a href="https://github.com/$github$">$github$</a></li>
+        </ul>
+    </div>		
+</div>
+
+$body$
+
+</body>
+</html>
