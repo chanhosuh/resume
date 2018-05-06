@@ -1,0 +1,68 @@
+\documentclass[margin]{res}
+\pdfmapfile{=fontawesome.map}
+\usepackage{enumitem}
+\usepackage{amsfonts}
+\usepackage{libertine}
+%\usepackage[sfdefault]{gillius2}
+\usepackage{microtype}
+\usepackage{graphicx}
+%\usepackage{fontspec}
+\usepackage{fontawesome}
+
+\usepackage{multirow}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+%\usepackage{geometry}
+%\geometry{letterpaper,tmargin=0.2in,bmargin=0.6in,lmargin=1in,rmargin=1in}
+\topmargin -.75in
+\textheight 10.25in
+
+
+%\font\helv=phvr at 10pt
+%\font\bighelv=phvr at 24pt
+\font\helv=GilliusADFNo2-Regular-lf-t1 at 10pt
+\font\bighelv=GilliusADFNo2-Regular-lf-t1 at 22pt
+
+\pagestyle{fancy}
+\pagenumbering{gobble}
+%no line at top
+\renewcommand{\headrulewidth}{0pt}
+\rfoot{\small{February 5, 2018}}
+
+% Custom section fonts
+%\usepackage{sectsty}
+%\allsectionsfont{\fontfamily{phvr}\selectfont}
+
+% List formatting
+\parskip=0in
+
+\setlist{itemsep=0.01in, parsep=0.0in, topsep=0in, partopsep=-0.0in, leftmargin=0.1in} 
+
+\setlist[itemize,1]{label=$$\circ$$, after=\vspace{-0.15in}}
+\setlist[itemize,2]{label=$$\bullet$$, itemsep=0in, parsep=0in, partopsep=0in, after=\vspace{0.015in}}
+
+
+\def\tightlist{}
+
+\begin{document}
+	\begin{tabular}{ll}
+		\multirow{ 2}{*}{\bighelv C\,h\,a\,n\,-\,H\,o\quad S u h\qquad}
+		&\helv csuh.web@gmail.com \\
+		&\helv xxx - xxx - xxxx \\
+		&\helv Fort Lee, New Jersey  \\
+		&\helv \faGithub \phantom{.} \faLinkedin \phantom{..} chanhosuh \\
+	\end{tabular}
+
+\vspace{-0.1in}
+
+\begin{resume}
+
+$body$
+
+\end{resume}
+\end{document}
+
+
+
+
