@@ -3,15 +3,31 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="generator" content="pandoc" />
     <meta name="description" content="The Resume of $firstname$ $lastname$"/>
     <title>$firstname$ $lastname$ - Resume</title>
-    <style type="text/css">code{white-space: pre;}</style>
-    <!-- <link rel="stylesheet" href="github-pandoc.css" type="text/css" /> -->
     <link rel="stylesheet" href="$css$" type="text/css" />
+    <style>
+        <!-- from https://github.com/sindresorhus/github-markdown-css -->
+            .markdown-body {
+                    box-sizing: border-box;
+                    min-width: 200px;
+                    max-width: 980px;
+                    margin: 0 auto;
+                    padding: 45px;
+            }
+
+            @media (max-width: 767px) {
+                    .markdown-body {
+                            padding: 15px;
+                    }
+            }
+    </style>
 </head>
 
 <body>
+<article class="markdown-body">
 <div id="main details">
     <h1>$firstname$ $lastname$</h1>
     $if(jobtitle)$
@@ -30,5 +46,6 @@
 
 $body$
 
+</article>
 </body>
 </html>
