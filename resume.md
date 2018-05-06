@@ -1,12 +1,13 @@
 ---
-name: Chan-Ho Suh
 firstname: Chan-Ho
 lastname: Suh
 date: \today
 email: csuh.web@gmail.com
 phone: xxx - xxx - xxxx
 location: New York, New York
-github_username: chanhosuh
+homepage: chanhosuh.com
+github: chanhosuh
+linkedin: chanhosuh
 ---
 
 # Education
@@ -21,7 +22,7 @@ History
 2018 - current, *Software engineer for financial technology*
     - Gather and translate requirements for loan origination and 
       trading business.
-    - Rebuild Django backend with greater accuracy and scaleability
+    - Rebuild Django backend with greater accuracy and scalability
       as primary objectives.
 - **MIO Partners** (McKinsey & Co subsidiary)\
   2016 - 2018, *Quant developer for trading*

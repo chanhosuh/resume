@@ -7,9 +7,10 @@
     <meta name="generator" content="pandoc" />
     <meta name="description" content="The Resume of $firstname$ $lastname$"/>
     <title>$firstname$ $lastname$ - Resume</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="$css$" type="text/css" />
+    <!-- from https://github.com/sindresorhus/github-markdown-css -->
     <style>
-        <!-- from https://github.com/sindresorhus/github-markdown-css -->
             .markdown-body {
                     box-sizing: border-box;
                     min-width: 200px;
@@ -35,11 +36,11 @@
     $endif$
     <div id="contact details">
         <ul>
-        <li>✉ <a href="mailto:$email$">$email$</a></li>
-        <li>☎ $phone$</li>
-        <li>🌎 <a href="http://$homepage$">$homepage$</a></li>
-        <li>Linkedin: <a href="https://www.linkedin.com/in/$linkedin$">$linkedin$</a></li>
-        <li>GitHub: <a href="https://github.com/$github$">$github$</a></li>
+        <li>$location$</li>
+        <li><a href="mailto:$email$">$email$</a></li>
+        <li><a href="http://$homepage$">$homepage$</a></li>
+        <li><i style="font-size:14pt" class="fa">&#xf09b;</i>  <a href="https://github.com/$github$">$github$</a></li>
+        <li><i style="font-size:14pt" class="fa">&#xf0e1;</i>  <a href="https://www.linkedin.com/in/$linkedin$">$linkedin$</a></li>
         </ul>
     </div>		
 </div>

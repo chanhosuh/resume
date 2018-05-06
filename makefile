@@ -9,7 +9,7 @@ resume.pdf: resume.tex
 	pdflatex resume.tex
 
 html: resume.html
-resume.html: resume.md github-pandoc.css html_resume_template.html
+resume.html: resume.md html_resume_template.html github-markdown.css
 	pandoc resume.md --template html_resume_template.html --self-contained --css github-markdown.css -o resume.html
 	./change_header_levels.py resume.html
 
