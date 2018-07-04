@@ -22,7 +22,7 @@ resume.html: $(input_file) $(html_template) github-markdown.css
 	./change_header_levels.py resume.html
 
 private: private_info=private.yaml
-private: pdf
+private: clean pdf
 	rm -f resume.tex
 
 publish: pdf html 
