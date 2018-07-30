@@ -16,20 +16,19 @@ linkedin: chanhosuh
 - **PhD**, University of California at Davis, mathematics, Dec 2007
 - **MS**, Rutgers, mathematical finance, Jan 2014
 
-# Employment\
-History
+# Employment
 - **LoanStreet Inc.**\
 2018 - current, *Software engineer for financial technology*
-    - Gather and translate requirements for loan origination and 
-      trading business.
-    - Rebuild Django backend with greater accuracy and scalability
-      as primary objectives.
+    - Gather and translate requirements for loan trading business
+      into technical specs.
+    - Complete rebuild of Django backend, using a new data processing
+      flow which ensures greater accuracy and closer adherence to
+      business logic.
 - **MIO Partners** (McKinsey & Co subsidiary)\
   2016 - 2018, *Quant developer for trading*
-    - Designed Python-based portfolio management tools following
-      object-oriented principles. Tools are used interactively for
-      analysis and as components in report-generation processes
-      deployed in Docker containers.
+    - Created Python-based portfolio management tools which are used
+      interactively for analysis and as components in report-generation
+      processes deployed in Docker containers.
     - Created and maintained daily trading opportunity charts reviewed
       by the CEO. Data was processed from a variety of sources
       including emails and databases.
