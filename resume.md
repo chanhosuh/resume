@@ -18,14 +18,14 @@ linkedin: chanhosuh
 
 # Employment
 - **LoanStreet Inc.**\
-2018 - current, *Software engineer for financial technology*
-    - Gather and translate requirements for loan trading business
-      into technical specs.
-    - Complete rebuild of Django backend, using a new data processing
-      flow which ensures greater accuracy and closer adherence to
-      business logic.
+  Mar 2018 - Feb 2019, *Software engineer for financial technology*
+    - Rebuilding loan syndication tech stack, using domain-driven design with event sourcing
+      to facilitate interaction with business and closer adherence to business rules
+    - Completely responsible for creating/managing GitHub issues for team of 4 developers and
+      writing business-driven development tests with project manager
+    - Utilizing a microservice architecture with Python, Docker, RabbitMQ, and Flask
 - **MIO Partners** (McKinsey & Co subsidiary)\
-  2016 - 2018, *Quant developer for trading*
+  Mar 2016 - Feb 2018, *Quant developer for trading*
     - Created Python-based portfolio management tools which are used
       interactively for analysis and as components in report-generation
       processes deployed in Docker containers.
@@ -37,7 +37,7 @@ linkedin: chanhosuh
       two front-end developers.
 
 - **JP Morgan Chase**\
-  2015 - 2016, *Quant developer for regulatory capital*
+  Mar 2015 - Mar 2016, *Quant developer for regulatory capital*
     - Automated Excel and Access-based manual processes as robust
       server processes using proprietary Python-based environment
       (Athena).
@@ -49,7 +49,7 @@ linkedin: chanhosuh
       results.
 
 - **Nomura**\
-  2014 - 2015, *Front office developer for electronic trading*
+  Feb 2014 - Mar 2015, *Front office developer for electronic trading*
     - Created a low-latency order book generator that used Tibco
       Rendezvous to aggregate market-data and pricing and
       communicate with smart order router and GUI (Java/Linux).
@@ -78,8 +78,7 @@ linkedin: chanhosuh
 
 # Skills & Abilities
 
-- Able to self-manage and rapidly iterate while gathering and updating requirements.
-- Programming languages: [Python]{}, [ Java]{}, [C]{}
+- Programming languages: [Python]{} (4 years), [ Java]{} (1.5 years), [ Haskell]{} (trying to learn...)
 - Work experience in a Linux server environment, using Unix tools (grep, awk, sed, vi(m), etc.)
 - Able to digest new quantitative literature from a top-down, conceptual viewpoint
 
@@ -92,7 +91,6 @@ linkedin: chanhosuh
 
 - Pacific Institute for the Mathematical Sciences Postdoctoral Fellowship
 - National Science Foundation VIGRE Fellowship (4 years)
-- Rutgers MSMF Gary Chropuvka Scholarship Award
 
 # Personal
 
