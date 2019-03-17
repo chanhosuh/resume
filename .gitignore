@@ -1,4 +1,12 @@
-*.swp
+private.yaml
+
+# LaTeX
 *.log
 *.synctex.gz
-private.yaml
+
+# vim
+*.swp
+
+# Eclipse
+.project
+.pydevproject
