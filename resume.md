@@ -17,13 +17,13 @@ linkedin: chanhosuh
 - **MS**, Rutgers, mathematical finance, Jan 2014
 
 # Employment
+- **Capital One**\
+  Apr 2019 - current, *Principal software engineer*
 - **LoanStreet Inc.**\
-  Mar 2018 - Feb 2019, *Software engineer for financial technology*
-    - Rebuilding loan syndication tech stack, using domain-driven design with event sourcing
-      to facilitate interaction with business and closer adherence to business rules
-    - Completely responsible for creating/managing GitHub issues for team of 4 developers and
-      writing business-driven development tests with project manager
-    - Utilizing a microservice architecture with Python, Docker, RabbitMQ, and Flask
+  Mar 2018 - Feb 2019, *Senior software engineer in financial technology*
+    - Re-architected loan syndication tech stack using domain-driven design to faciliate interaction with the business and ensure closer adherence to business rules
+    - Created and managed GitHub issues for team of 4 developers.  Engaged in business-driven development testing with project manager.
+    - As hands-on lead, wrote core Python libraries for event-sourced microservices which communicated via RabbitMQ and REST, created Docker configurations, and set standards from writing and testing code to Git workflow and continuous integration
 - **MIO Partners** (McKinsey & Co subsidiary)\
   Mar 2016 - Feb 2018, *Quant developer for trading*
     - Created Python-based portfolio management tools which are used
@@ -78,16 +78,11 @@ linkedin: chanhosuh
 
 # Skills & Abilities
 
-- Programming languages: [Python]{} (4 years), [ Java]{} (1.5 years), [ Haskell]{} (trying to learn...)
+- Programming languages: [Python]{} (4 years), [ Java]{} (1.5 years)
 - Work experience in a Linux server environment, using Unix tools (grep, awk, sed, vi(m), etc.)
 - Able to digest new quantitative literature from a top-down, conceptual viewpoint
 
-# Papers
-
-- “Boundary-Twisted Normal Form and the Number of Elementary Moves to Unknot”, *New York J. Math* 18 (2012) 389-408.
-- “The Unknotting Problem and Normal Surface Q-Theory”, *Journal of Knot Theory and Its Ramifications*, accepted for publication
-
-# Fellowships & Scholarships
+# Fellowships
 
 - Pacific Institute for the Mathematical Sciences Postdoctoral Fellowship
 - National Science Foundation VIGRE Fellowship (4 years)
