@@ -18,12 +18,21 @@ linkedin: chanhosuh
 
 # Employment
 - **Capital One**\
-  Apr 2019 - current, *Principal software engineer*
+  Apr 2019 - current, *Senior engineer / tech lead*
+    - As lead for Python data lake usertools, ensure users are insulated
+      from rapid infrastructure changes while maintaining a consistent interface.
+
 - **LoanStreet Inc.**\
   Mar 2018 - Feb 2019, *Senior software engineer in financial technology*
-    - Re-architected loan syndication tech stack using domain-driven design to faciliate interaction with the business and ensure closer adherence to business rules
-    - Created and managed GitHub issues for team of 4 developers.  Engaged in business-driven development testing with project manager.
-    - As hands-on lead, wrote core Python libraries for event-sourced microservices which communicated via RabbitMQ and REST, created Docker configurations, and set standards from writing and testing code to Git workflow and continuous integration
+    - Re-architected loan syndication tech stack using domain-driven design
+      to faciliate interaction with the business and ensure closer adherence
+      to business rules.
+    - Created and managed issues for a team of 4.  Collaborated with the
+      business on functional testing.
+    - As hands-on lead, wrote core Python libraries for event-sourced
+      microservices communicating through RabbitMQ & REST, created
+      Docker configurations, and set standards from code quality to Git workflow and CI.
+
 - **MIO Partners** (McKinsey & Co subsidiary)\
   Mar 2016 - Feb 2018, *Quant developer for trading*
     - Created Python-based portfolio management tools which are used
@@ -39,11 +48,8 @@ linkedin: chanhosuh
 - **JP Morgan Chase**\
   Mar 2015 - Mar 2016, *Quant developer for regulatory capital*
     - Automated Excel and Access-based manual processes as robust
-      server processes using proprietary Python-based environment
-      (Athena).
-    - Worked on back-end processes and event-driven GUI design,
-      following the Agile methodology, including thorough test
-      coverage.
+      server processes, with event-driven GUI, using proprietary
+      Python-based environment (Athena).
     - Frequent communication and signoffs from business users were
       required, with careful documentation showing accuracy of
       results.
@@ -75,12 +81,11 @@ linkedin: chanhosuh
   2008 - 2009, PIMS Postdoctoral Fellow\
   *Conducted mathematical research in low-dimensional topology*
 
-
 # Skills & Abilities
 
-- Programming languages: [Python]{} (4 years), [ Java]{} (1.5 years)
+- Programming languages: [Python]{} (4.5 years), [ Java]{} (1.5 years) 
 - Work experience in a Linux server environment, using Unix tools (grep, awk, sed, vi(m), etc.)
-- Able to digest new quantitative literature from a top-down, conceptual viewpoint
+- Experienced on backend (Linux, Postgres, et) with facility on frontend (Django, React)
 
 # Fellowships
 
