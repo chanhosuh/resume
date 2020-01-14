@@ -35,7 +35,7 @@ resume.pdf: resume.tex
 .PHONY: html
 html: resume.html
 resume.html: $(input_file) $(html_template) github-markdown.css
-	pandoc $(private_info) $(input_file) --template $(html_template) --self-contained --css github-markdown.css -o resume.html
+	pandoc $(private_info) $(input_file) --template $(html_template) --css github-markdown.css -o resume.html
 	./change_header_levels.py resume.html
 
 .PHONY: private
@@ -47,6 +47,7 @@ private: clean pdf
 publish: pdf html 
 	cp resume.html $(publish_dir)
 	cp resume.pdf $(publish_dir)
+	cp github-markdown.css $(publish_dir)
 
 .PHONY: clean
 clean:
