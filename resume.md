@@ -88,7 +88,7 @@ linkedin: chanhosuh
 
 - Programming languages: [Python]{} (4.5 years), [ Java]{} (1.5 years) 
 - Work experience in a Linux server environment, using Unix tools (grep, awk, sed, vi(m), etc.)
-- Experienced on backend (Linux, Postgres, et) with facility on frontend (Django, React)
+- Experienced on backend (Linux, Postgres, etc.) with facility on frontend (Django, React)
 
 # Fellowships
 
