@@ -19,8 +19,11 @@ linkedin: chanhosuh
 # Employment
 - **Capital One**\
   Apr 2019 - current, *Senior engineer / tech lead*
-    - As lead for Python data lake usertools, ensure users are insulated
-      from rapid infrastructure changes while maintaining a consistent interface.
+    - As lead for Python-based access to data lake, gather requirements
+      for machine learning group while proactively identifying and
+      addressing usability pain points.
+    - Architect a consistent interface for both local and distributed
+      computing needs.
 
 - **LoanStreet Inc.**\
   Mar 2018 - Feb 2019, *Senior software engineer in financial technology*
