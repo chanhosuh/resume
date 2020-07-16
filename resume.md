@@ -19,19 +19,19 @@ linkedin: chanhosuh
 # Employment
 - **Capital One**\
   Apr 2019 - current, *Senior engineer / tech lead*
-    - As lead for Python-based access to data lake, gather requirements
-      for machine learning group while proactively identifying and
-      addressing usability pain points.
-    - Architect a consistent interface for both local and distributed
-      computing needs.
+    - As hands-on lead for Python-based access to data lake, plan roadmap, 
+      create work items, maintain best practices in coding and testing.
+    - Collaborate cross-functionally with data scientists and
+      machine learning group to gather requirements for 
+      environments ranging from laptops to distributed clusters.
 
 - **LoanStreet Inc.**\
   Mar 2018 - Feb 2019, *Senior software engineer in financial technology*
     - Re-architected loan syndication tech stack using domain-driven design
       to faciliate interaction with the business and ensure closer adherence
       to business rules.
-    - Created and managed issues for a team of 4.  Collaborated with the
-      business on functional testing.
+    - Managed work items for a team of 4.  Collaborated with stakeholders
+      on functional testing.
     - As hands-on lead, wrote core Python libraries for event-sourced
       microservices communicating through RabbitMQ & REST, created
       Docker configurations, and set standards from code quality to Git workflow and CI.
