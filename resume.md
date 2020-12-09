@@ -17,8 +17,13 @@ linkedin: chanhosuh
 - **MS**, Rutgers, mathematical finance, Jan 2014
 
 # Employment
+- **APY.Finance**\
+  Aug 2020 - current, *Smart contract development \& devops*
+    - Created contracts and deployments for governance token and liquidity mining
+      with 80 million USD in total value locked.
+
 - **Capital One**\
-  Apr 2019 - current, *Senior engineer / tech lead*
+  Apr 2019 - Nov 2020, *Senior engineer / tech lead*
     - As hands-on lead for Python-based access to data lake, plan roadmap, 
       create work items, maintain best practices in coding and testing.
     - Collaborate cross-functionally with data scientists and
