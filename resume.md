@@ -18,7 +18,7 @@ linkedin: chanhosuh
 
 # Employment
 - **APY.Finance**\
-  Aug 2020 - current, *Smart contract development \& devops*
+  Aug 2020 - current, *Blockchain development \& devops*
     - Created contracts and deployments for governance token and liquidity mining
       with 80 million USD in total value locked.
 
@@ -32,11 +32,8 @@ linkedin: chanhosuh
 
 - **LoanStreet Inc.**\
   Mar 2018 - Feb 2019, *Senior software engineer in financial technology*
-    - Re-architected loan syndication tech stack using domain-driven design
-      to faciliate interaction with the business and ensure closer adherence
-      to business rules.
-    - Managed work items for a team of 4.  Collaborated with stakeholders
-      on functional testing.
+    - Re-architected loan syndication tech stack using domain-driven design.
+    - Managed work items for a team of 4 and gathered requirements.
     - As hands-on lead, wrote core Python libraries for event-sourced
       microservices communicating through RabbitMQ & REST, created
       Docker configurations, and set standards from code quality to Git workflow and CI.
@@ -88,12 +85,6 @@ linkedin: chanhosuh
 - **University of Victoria**\
   2008 - 2009, PIMS Postdoctoral Fellow\
   *Conducted mathematical research in low-dimensional topology*
-
-# Skills & Abilities
-
-- Programming languages: [Python]{} (4.5 years), [ Java]{} (1.5 years) 
-- Work experience in a Linux server environment, using Unix tools (grep, awk, sed, vi(m), etc.)
-- Experienced on backend (Linux, Postgres, etc.) with facility on frontend (Django, React)
 
 # Fellowships
 
