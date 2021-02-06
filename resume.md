@@ -16,8 +16,13 @@ linkedin: chanhosuh
 - **PhD**, University of California at Davis, mathematics, Dec 2007
 - **MS**, Rutgers, mathematical finance, Jan 2014
 
+# Highlights
+
+- built and maintained production systems handling large amounts of funds 
+- worked in multiple jobs with strong testing culture
+
 # Employment
-- **APY.Finance**\
+- **APY Finance**\
   Aug 2020 - current, *Blockchain development \& devops*
     - Created contracts and deployments for governance token and liquidity mining
       with 80 million USD in total value locked.
@@ -85,11 +90,6 @@ linkedin: chanhosuh
 - **University of Victoria**\
   2008 - 2009, PIMS Postdoctoral Fellow\
   *Conducted mathematical research in low-dimensional topology*
-
-# Fellowships
-
-- Pacific Institute for the Mathematical Sciences Postdoctoral Fellowship
-- National Science Foundation VIGRE Fellowship (4 years)
 
 # Personal
 
