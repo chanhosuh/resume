@@ -18,12 +18,12 @@ linkedin: chanhosuh
 
 # Highlights
 
-- built and maintained production systems handling large amounts of funds 
-- worked in multiple jobs with strong testing culture
+- Built and maintained production systems handling large amounts of funds 
+- Worked in multiple jobs with strong testing culture
 
 # Employment
 - **APY Finance**\
-  Aug 2020 - current, *Blockchain development \& devops*
+  Aug 2020 - current, *Lead Solidity engineer \& devops*
     - Created contracts and deployments for governance token and liquidity mining
       with 80 million USD in total value locked.
 
