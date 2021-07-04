@@ -19,6 +19,14 @@ help:
 	@echo "clean            delete LaTeX, PDF, and HTML resumes"
 	@echo ""
 
+.PHONY: build
+build:
+	docker build . -t resume
+
+.PHONY: docker_bash
+docker_bash: build
+	docker run -it -v ${PWD}:/app resume bash
+
 .PHONY: all
 all: tex pdf html
 
