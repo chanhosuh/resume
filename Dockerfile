@@ -7,6 +7,7 @@ RUN ln -snf /usr/share/zoneinfo/Etc/UTC /etc/localtime \
         texlive \
         texlive-fonts-extra \
         make \
+        python3 \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
