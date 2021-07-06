@@ -18,13 +18,16 @@ help:
 	@echo "publish          publish HTML and PDF resumes to website"
 	@echo "clean            delete LaTeX, PDF, and HTML resumes"
 	@echo ""
+	@echo "docker_build     build Docker image"
+	@echo "docker_bash      start bash shell in Docker container"
+	@echo ""
 
-.PHONY: build
-build:
+.PHONY: docker_build
+docker_build:
 	docker build . -t resume
 
 .PHONY: docker_bash
-docker_bash: build
+docker_bash:
 	docker run -it -v ${PWD}:/app resume bash
 
 .PHONY: all
