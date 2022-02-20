@@ -22,10 +22,23 @@ linkedin: chanhosuh
 - Worked in multiple jobs with strong testing culture
 
 # Employment
+- **Curve DAO**\
+  April 2022 - ongoing, *Grant recipient, risk team*
+    - Identify and assess risks to Curve stakeholders for gauge
+      emissions voting.
+    - Advise on smart contract security for due diligence
+      on protocols impacting Curve.
+
 - **APY Finance**\
-  Aug 2020 - current, *Lead Solidity engineer \& devops*
+  Aug 2020 - current, *Lead engineer, smart contracts and backend services*
     - Created contracts and deployments for governance token and liquidity mining
-      with 80 million USD in total value locked.
+      with 80 million USD in total value locked (Solidity and Ethers/Hardhat)
+    - Architected unique system of smart contracts to securely manage and valuate
+      a portfolio of Convex positions.
+    - Possess in-depth knowledge of Curve and Convex protocols, in addition to working
+      knowledge of common DeFi patterns.
+    - Created and maintained backend services for serving up client-side data
+      in addition to calculations for liquidity mining rewards.
 
 - **Capital One**\
   Apr 2019 - Nov 2020, *Senior engineer / tech lead*
