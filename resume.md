@@ -31,14 +31,11 @@ linkedin: chanhosuh
 
 - **APY Finance**\
   Aug 2020 - current, *Lead engineer, smart contracts and backend services*
-    - Created contracts and deployments for governance token and liquidity mining
-      with 80 million USD in total value locked (Solidity and Ethers/Hardhat)
-    - Architected unique system of smart contracts to securely manage and valuate
+    - Created and deployed contracts controlling $80M TVL (Solidity and Ethers/Hardhat).
+    - Architected unique system to securely manage and valuate
       a portfolio of Convex positions.
-    - Possess in-depth knowledge of Curve and Convex protocols, in addition to working
-      knowledge of common DeFi patterns.
-    - Created and maintained backend services for serving up client-side data
-      in addition to calculations for liquidity mining rewards.
+    - Possess in-depth knowledge of Curve and Convex protocols.
+    - Created and maintained backend calculations and REST services.
 
 - **Capital One**\
   Apr 2019 - Nov 2020, *Senior engineer / tech lead*
@@ -52,17 +49,17 @@ linkedin: chanhosuh
   Mar 2018 - Feb 2019, *Senior software engineer in financial technology*
     - Re-architected loan syndication tech stack using domain-driven design.
     - Managed work items for a team of 4 and gathered requirements.
-    - As hands-on lead, wrote core Python libraries for event-sourced
-      microservices communicating through RabbitMQ & REST, created
-      Docker configurations, and set standards from code quality to Git workflow and CI.
+    - Wrote Docker files and core Python libraries for
+      event-sourced microservices communicating via RabbitMQ, while setting
+      standards from code quality to Git workflow and CI.
 
 - **MIO Partners** (McKinsey & Co subsidiary)\
   Mar 2016 - Feb 2018, *Quant developer for trading*
-    - Created Python-based portfolio management tools which are used
+    - Created Python-based portfolio management tools used
       interactively for analysis and as components in report-generation
       processes deployed in Docker containers.
     - Created and maintained daily trading opportunity charts reviewed
-      by the CEO. Data was processed from a variety of sources
+      by CEO. Data was processed from a variety of sources
       including emails and databases.
     - As project manager, gathered requirements for a web app
       (React JS and Python), coded back-end computations, and managed
