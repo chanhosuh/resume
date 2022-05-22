@@ -47,10 +47,10 @@ linkedin: chanhosuh
 - **LoanStreet Inc.**\
   Mar 2018 - Feb 2019, *Senior software engineer in financial technology*
     - Re-architected loan syndication tech stack using domain-driven design.
-    - Managed a team of 4, gathered requirements, and set
-      standards from code quality to Git workflow and CI.
-    - Wrote Docker files and core Python libraries for
-      event-sourced microservices communicating via RabbitMQ.
+    - Managed team of 4, gathered requirements, set
+      best practices for code quality, Git, and CI.
+    - Wrote Docker files and Python libraries for
+      event-sourced microservices using RabbitMQ.
 
 - **MIO Partners** (McKinsey & Co subsidiary)\
   Mar 2016 - Feb 2018, *Quant developer for trading*
@@ -60,9 +60,6 @@ linkedin: chanhosuh
     - Created and maintained daily trading opportunity charts reviewed
       by CEO. Data was processed from a variety of sources
       including emails and databases.
-    - As project manager, gathered requirements for a web app
-      (React JS and Python), coded back-end computations, and managed
-      two front-end developers.
 
 - **JP Morgan Chase**\
   Mar 2015 - Mar 2016, *Quant developer for regulatory capital*
@@ -82,9 +79,6 @@ linkedin: chanhosuh
       and swap futures.
     - Created a FIX trade feed from ION trading platform into trade
       management system.
-
-- **Nomura**\
-  2013, *Intern for equities connectivity team*
 
 - **University of California, Davis**\
   2012 Lecturer\
