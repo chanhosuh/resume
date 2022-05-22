@@ -39,19 +39,18 @@ linkedin: chanhosuh
 
 - **Capital One**\
   Apr 2019 - Nov 2020, *Senior engineer / tech lead*
-    - As hands-on lead for Python-based access to data lake, plan roadmap, 
-      create work items, maintain best practices in coding and testing.
-    - Collaborate cross-functionally with data scientists and
-      machine learning group to gather requirements for 
-      environments ranging from laptops to distributed clusters.
+    - As hands-on lead for Python-based access to data lake, planned roadmap, 
+      created work items, established best practices in coding and testing.
+    - Collaborated cross-functionally with data scientists and ML group to craft
+      requirements for diverse environments from laptops to distributed clusters.
 
 - **LoanStreet Inc.**\
   Mar 2018 - Feb 2019, *Senior software engineer in financial technology*
     - Re-architected loan syndication tech stack using domain-driven design.
-    - Managed work items for a team of 4 and gathered requirements.
-    - Wrote Docker files and core Python libraries for
-      event-sourced microservices communicating via RabbitMQ, while setting
+    - Managed a team of 4, gathered requirements, and set
       standards from code quality to Git workflow and CI.
+    - Wrote Docker files and core Python libraries for
+      event-sourced microservices communicating via RabbitMQ.
 
 - **MIO Partners** (McKinsey & Co subsidiary)\
   Mar 2016 - Feb 2018, *Quant developer for trading*
