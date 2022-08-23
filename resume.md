@@ -16,30 +16,27 @@ linkedin: chanhosuh
 - **PhD**, University of California at Davis, mathematics, Dec 2007
 - **MS**, Rutgers, mathematical finance, Jan 2014
 
-# Highlights
-
-- Built and maintained production systems handling large amounts of funds 
-- Worked in multiple jobs with strong testing culture
 
 # Employment
 - **Curve DAO**\
-  April 2022 - ongoing, *Grant recipient, risk team*
-    - Identify and assess risks to Curve stakeholders for gauge
+  April 2022 - current, *Researcher*
+    - Optimize pool parameters for increased
+      fee revenue and better risk levels.
+    - Build out services and tools to help the DAO and participating
+      protocols assess pool performance and risks.
+    - Identify risks to Curve stakeholders for gauge
       emissions voting.
-    - Advise on smart contract security for due diligence
-      on protocols impacting Curve.
 
 - **APY Finance**\
-  Aug 2020 - current, *Lead engineer, smart contracts and backend services*
+  Aug 2020 - Aug 2022, *Lead engineer, smart contracts and backend services*
     - Created and deployed contracts controlling $80M TVL (Solidity and Ethers/Hardhat).
     - Architected unique system to securely manage and valuate
       a portfolio of Convex positions.
-    - Possess in-depth knowledge of Curve and Convex protocols.
     - Created and maintained backend calculations and REST services.
 
 - **Capital One**\
   Apr 2019 - Nov 2020, *Senior engineer / tech lead*
-    - As hands-on lead for Python-based access to data lake, planned roadmap, 
+    - As hands-on lead for Python-based data lake access, planned roadmap, 
       created work items, established best practices in coding and testing.
     - Collaborated cross-functionally with data scientists and ML group to craft
       requirements for diverse environments from laptops to distributed clusters.
@@ -72,7 +69,7 @@ linkedin: chanhosuh
 
 - **Nomura**\
   Feb 2014 - Mar 2015, *Front office developer for electronic trading*
-    - Created a low-latency order book generator that used Tibco
+    - Created low-latency order book generator that used Tibco
       Rendezvous to aggregate market-data and pricing and
       communicate with smart order router and GUI (Java/Linux).
     - Primary maintainer of automated market-maker for USD swaps
