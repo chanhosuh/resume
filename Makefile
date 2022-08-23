@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := help
 
-publish_dir := "$(HOME)/git/chanhosuh.github.io-src/static"
+publish_dir := "$(HOME)/git/chanhosuh.github.io/assets"
 input_file := resume.md
 latex_template := latex_resume_template.tex
 html_template := html_resume_template.html
