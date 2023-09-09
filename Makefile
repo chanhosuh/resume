@@ -36,7 +36,7 @@ all: tex pdf html
 .PHONY: tex
 tex: resume.tex
 resume.tex: $(input_file) $(latex_template)
-	pandoc $(private_info) $(input_file) --template $(latex_template) -o resume.tex
+	pandoc $(input_file) $(private_info) --template $(latex_template) -o resume.tex
 
 .PHONY: pdf
 pdf: resume.pdf
@@ -46,7 +46,7 @@ resume.pdf: resume.tex
 .PHONY: html
 html: resume.html
 resume.html: $(input_file) $(html_template) github-markdown.css
-	pandoc $(private_info) $(input_file) --template $(html_template) --css github-markdown.css -o resume.html
+	pandoc $(input_file) --template $(html_template) --css github-markdown.css -o resume.html
 	./change_header_levels.py resume.html
 
 .PHONY: private
