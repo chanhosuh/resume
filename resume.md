@@ -22,9 +22,8 @@ linkedin: chanhosuh
   April 2022 - current, *Software Engineer / Researcher*
     - Develop Python package for simulating risk-reward scenarios for
       Curve pools.
-    - Assist protocols, with exposures often in 10-100s of million USD, in
-      optimizing pool parameters for better risk-reward.
-    - Advise and provide ad-hoc analysis to risk team as needed.
+    - Advise protocols in managing risk-reward of exposures often in 10-100m USD.
+    - Provide analysis and smart contract auditing to risk team as needed.
 
 - **APY Finance**\
   Aug 2020 - Aug 2022, *Lead engineer, smart contracts and backend services*
