@@ -18,12 +18,16 @@ linkedin: chanhosuh
 
 
 # Employment
+- **JP Morgan Chase**, Kinexys Digital Assets\
+  Feb 2024 - current, *Lead Software Developer (VP)*
+    - Collaborate with SMEs to architect blockchain tokenization projects.
+    - Provide mentorship and code reviews for junior team members.
+
 - **Curve DAO**\
-  April 2022 - current, *Software Engineer / Researcher*
+  April 2022 - Feb 2024, *Software Engineer / Researcher*
     - Develop Python package for simulating risk-reward scenarios for
       Curve pools.
     - Advise protocols in managing risk-reward of exposures often in 10-100m USD.
-    - Provide analysis and smart contract auditing to risk team as needed.
 
 - **APY Finance**\
   Aug 2020 - Aug 2022, *Lead engineer, smart contracts and backend services*
@@ -68,10 +72,8 @@ linkedin: chanhosuh
 - **Nomura**\
   Feb 2014 - Mar 2015, *Front office developer for electronic trading*
     - Created low-latency order book generator that used Tibco
-      Rendezvous to aggregate market-data and pricing and
+      Rv to aggregate market-data and pricing and
       communicate with smart order router and GUI (Java/Linux).
-    - Primary maintainer of automated market-maker for USD swaps
-      and swap futures.
     - Created a FIX trade feed from ION trading platform into trade
       management system.
 
